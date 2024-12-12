@@ -1,0 +1,16 @@
+/*************DESIGNATOR********************************/	
+	
+Designator ::= (ScopeResDesignator) IDENT:namespaceName COLON COLON IDENT:designatorName DesignatorRight
+				|
+				(IdentDesignator) IDENT:designatorName DesignatorRight
+				;
+
+DesignatorRight ::=(DesignatorListWrap) DesignatorRight DesignatorRightItem
+				|
+				(NoDesignator)/* epsilon */
+				;
+DesignatorRightItem ::=(DotIdentDesignator) DOT IDENT
+						|
+						(BracketsDesignator) LBRACK Expression RBRACK
+						;	
+				

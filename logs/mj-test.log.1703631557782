@@ -1,0 +1,20 @@
+INFO  23:50:31,403 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\test303.mj
+INFO  23:50:31,469 - #2 program
+INFO  23:50:31,469 - #3 test_303
+INFO  23:50:31,469 - #16 namespace
+INFO  23:50:31,470 - #3 Predmeti
+INFO  23:50:31,470 - #7 {
+INFO  23:50:31,471 - #20 const
+INFO  23:50:31,471 - #3 int
+INFO  23:50:31,472 - #3 cinilac
+INFO  23:50:31,473 - #41 =
+INFO  23:50:31,473 - #4 4
+INFO  23:50:31,473 - #46 ,
+INFO  23:50:31,474 - #3 delilac
+INFO  23:50:31,475 - #41 =
+INFO  23:50:31,475 - #4 3
+INFO  23:50:31,475 - #44 ;
+INFO  23:50:31,475 - #18 class
+ERROR 23:50:31,475 - 
+Sintaksna greska na liniji 9
+ERROR 23:50:31,475 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

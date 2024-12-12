@@ -1,0 +1,15 @@
+INFO  12:28:20,042 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program.mj
+INFO  12:28:20,071 - #2 program
+INFO  12:28:20,071 - #3 MJProgram
+INFO  12:28:20,071 - #3 int
+INFO  12:28:20,072 - #3 x
+INFO  12:28:20,075 - #12 [
+INFO  12:28:20,075 - #13 ]
+INFO  12:28:20,075 - #46 ,
+INFO  12:28:20,076 - #3 y
+INFO  12:28:20,077 - #44 ;
+INFO  12:28:20,077 - #7 {
+INFO  12:28:20,078 - #17 break
+ERROR 12:28:20,078 - 
+Sintaksna greska na liniji 4
+ERROR 12:28:20,078 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

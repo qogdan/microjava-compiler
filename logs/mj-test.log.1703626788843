@@ -1,0 +1,43 @@
+INFO  22:35:23,690 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program.mj
+INFO  22:35:23,753 - #2 program
+INFO  22:35:23,753 - #3 p
+INFO  22:35:23,753 - #16 namespace
+INFO  22:35:23,753 - #3 sizes
+INFO  22:35:23,753 - #7 {
+INFO  22:35:23,753 - #20 const
+INFO  22:35:23,754 - #3 int
+INFO  22:35:23,754 - #3 tableSize
+INFO  22:35:23,756 - #41 =
+INFO  22:35:23,756 - #4 10
+INFO  22:35:23,756 - #44 ;
+INFO  22:35:23,757 - #7 {
+INFO  22:35:23,758 - #8 }
+INFO  22:35:23,759 - #8 }
+INFO  22:35:23,759 - #3 Table
+INFO  22:35:23,759 - #3 val
+INFO  22:35:23,759 - #44 ;
+INFO  22:35:23,761 - #3 int
+INFO  22:35:23,761 - #3 rows
+INFO  22:35:23,761 - #46 ,
+INFO  22:35:23,762 - #3 columns
+INFO  22:35:23,762 - #44 ;
+INFO  22:35:23,762 - #7 {
+INFO  22:35:23,762 - #24 void
+INFO  22:35:23,762 - #3 f
+INFO  22:35:23,763 - #10 (
+INFO  22:35:23,763 - #3 char
+INFO  22:35:23,763 - #3 ch
+INFO  22:35:23,763 - #46 ,
+INFO  22:35:23,763 - #3 int
+INFO  22:35:23,763 - #3 a
+INFO  22:35:23,763 - #46 ,
+INFO  22:35:23,764 - #3 int
+INFO  22:35:23,764 - #3 arg
+INFO  22:35:23,764 - #11 )
+INFO  22:35:23,764 - #3 int
+INFO  22:35:23,764 - #3 x
+INFO  22:35:23,764 - #44 ;
+INFO  22:35:23,764 - #3 int
+ERROR 22:35:23,764 - 
+Sintaksna greska na liniji 11
+ERROR 22:35:23,764 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11

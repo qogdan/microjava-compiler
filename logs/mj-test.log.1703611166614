@@ -1,0 +1,45 @@
+INFO  18:19:15,019 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program.mj
+INFO  18:19:15,057 - #2 program
+INFO  18:19:15,057 - #3 MJProgram
+INFO  18:19:15,057 - #3 int
+INFO  18:19:15,058 - #3 xl
+INFO  18:19:15,060 - #12 [
+INFO  18:19:15,060 - #13 ]
+INFO  18:19:15,060 - #44 ;
+INFO  18:19:15,062 - #3 int
+INFO  18:19:15,062 - #3 abc
+INFO  18:19:15,062 - #44 ;
+INFO  18:19:15,063 - #7 {
+INFO  18:19:15,064 - #8 }
+INFO  18:19:15,066 - Program(
+  DeclarationListDerived1(
+    DeclarationListDerived1(
+      DeclarationListDerived2(
+      ) [DeclarationListDerived2]
+      DeclarationDerived2(
+        VarDeclDerived1(
+          TypeDerived1(
+          ) [TypeDerived1]
+          VarDeclarationsDerived2(
+            VarItemDerived2(
+            ) [VarItemDerived2]
+          ) [VarDeclarationsDerived2]
+        ) [VarDeclDerived1]
+      ) [DeclarationDerived2]
+    ) [DeclarationListDerived1]
+    DeclarationDerived2(
+      VarDeclDerived1(
+        TypeDerived1(
+        ) [TypeDerived1]
+        VarDeclarationsDerived2(
+          VarItemDerived1(
+          ) [VarItemDerived1]
+        ) [VarDeclarationsDerived2]
+      ) [VarDeclDerived1]
+    ) [DeclarationDerived2]
+  ) [DeclarationListDerived1]
+  MethodDeclListDerived2(
+  ) [MethodDeclListDerived2]
+) [Program]
+INFO  18:19:15,067 - =======================
+INFO  18:19:15,069 - Program count calls = 1

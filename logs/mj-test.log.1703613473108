@@ -1,0 +1,153 @@
+INFO  18:56:29,407 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program.mj
+INFO  18:56:29,443 - #2 program
+INFO  18:56:29,443 - #3 MJProgram
+INFO  18:56:29,443 - #3 int
+INFO  18:56:29,445 - #3 xl
+INFO  18:56:29,446 - #12 [
+INFO  18:56:29,446 - #13 ]
+INFO  18:56:29,446 - #44 ;
+INFO  18:56:29,448 - #3 int
+INFO  18:56:29,448 - #3 abc
+INFO  18:56:29,448 - #44 ;
+INFO  18:56:29,450 - #7 {
+INFO  18:56:29,450 - #24 void
+INFO  18:56:29,451 - #3 f
+INFO  18:56:29,452 - #10 (
+INFO  18:56:29,452 - #11 )
+INFO  18:56:29,452 - #3 int
+INFO  18:56:29,453 - #3 i
+INFO  18:56:29,453 - #44 ;
+INFO  18:56:29,453 - #7 {
+INFO  18:56:29,453 - #17 break
+INFO  18:56:29,454 - #44 ;
+INFO  18:56:29,454 - #9 print
+INFO  18:56:29,455 - #10 (
+INFO  18:56:29,455 - #4 1
+INFO  18:56:29,455 - #28 +
+INFO  18:56:29,457 - #4 1
+INFO  18:56:29,459 - #11 )
+INFO  18:56:29,459 - #44 ;
+INFO  18:56:29,459 - #14 return
+INFO  18:56:29,459 - #3 i
+INFO  18:56:29,459 - #44 ;
+INFO  18:56:29,460 - #14 return
+INFO  18:56:29,460 - #4 123
+INFO  18:56:29,460 - #44 ;
+INFO  18:56:29,460 - #8 }
+INFO  18:56:29,460 - #8 }
+INFO  18:56:29,462 - Program(
+  DeclarationListDerived1(
+    DeclarationListDerived1(
+      DeclarationListDerived2(
+      ) [DeclarationListDerived2]
+      DeclarationDerived2(
+        VarDeclDerived1(
+          TypeDerived1(
+          ) [TypeDerived1]
+          VarDeclarationsDerived2(
+            VarItemDerived2(
+            ) [VarItemDerived2]
+          ) [VarDeclarationsDerived2]
+        ) [VarDeclDerived1]
+      ) [DeclarationDerived2]
+    ) [DeclarationListDerived1]
+    DeclarationDerived2(
+      VarDeclDerived1(
+        TypeDerived1(
+        ) [TypeDerived1]
+        VarDeclarationsDerived2(
+          VarItemDerived1(
+          ) [VarItemDerived1]
+        ) [VarDeclarationsDerived2]
+      ) [VarDeclDerived1]
+    ) [DeclarationDerived2]
+  ) [DeclarationListDerived1]
+  MethodDeclListDerived1(
+    MethodDeclListDerived2(
+    ) [MethodDeclListDerived2]
+    MethodDeclDerived1(
+      MethodReturnTypeDerived2(
+      ) [MethodReturnTypeDerived2]
+      VarDeclDerived1(
+        TypeDerived1(
+        ) [TypeDerived1]
+        VarDeclarationsDerived2(
+          VarItemDerived1(
+          ) [VarItemDerived1]
+        ) [VarDeclarationsDerived2]
+      ) [VarDeclDerived1]
+      StatementListDerived1(
+        StatementListDerived1(
+          StatementListDerived1(
+            StatementListDerived1(
+              StatementListDerived2(
+              ) [StatementListDerived2]
+              StatementDerived2(
+                MatchedDerived1(
+                ) [MatchedDerived1]
+              ) [StatementDerived2]
+            ) [StatementListDerived1]
+            StatementDerived2(
+              MatchedDerived6(
+                ExpressionDerived2(
+                  TermDerived1(
+                    FactorDerived1(
+                    ) [FactorDerived1]
+                    MulopFactorListDerived2(
+                    ) [MulopFactorListDerived2]
+                  ) [TermDerived1]
+                  AddopTermListDerived1(
+                    AddopTermListDerived2(
+                    ) [AddopTermListDerived2]
+                    AddopDerived1(
+                    ) [AddopDerived1]
+                    TermDerived1(
+                      FactorDerived1(
+                      ) [FactorDerived1]
+                      MulopFactorListDerived2(
+                      ) [MulopFactorListDerived2]
+                    ) [TermDerived1]
+                  ) [AddopTermListDerived1]
+                ) [ExpressionDerived2]
+              ) [MatchedDerived6]
+            ) [StatementDerived2]
+          ) [StatementListDerived1]
+          StatementDerived2(
+            MatchedDerived4(
+              ExpressionDerived2(
+                TermDerived1(
+                  FactorDerived4(
+                    DesignatorDerived2(
+                      DesignatorRightDerived2(
+                      ) [DesignatorRightDerived2]
+                    ) [DesignatorDerived2]
+                  ) [FactorDerived4]
+                  MulopFactorListDerived2(
+                  ) [MulopFactorListDerived2]
+                ) [TermDerived1]
+                AddopTermListDerived2(
+                ) [AddopTermListDerived2]
+              ) [ExpressionDerived2]
+            ) [MatchedDerived4]
+          ) [StatementDerived2]
+        ) [StatementListDerived1]
+        StatementDerived2(
+          MatchedDerived4(
+            ExpressionDerived2(
+              TermDerived1(
+                FactorDerived1(
+                ) [FactorDerived1]
+                MulopFactorListDerived2(
+                ) [MulopFactorListDerived2]
+              ) [TermDerived1]
+              AddopTermListDerived2(
+              ) [AddopTermListDerived2]
+            ) [ExpressionDerived2]
+          ) [MatchedDerived4]
+        ) [StatementDerived2]
+      ) [StatementListDerived1]
+    ) [MethodDeclDerived1]
+  ) [MethodDeclListDerived1]
+) [Program]
+INFO  18:56:29,463 - =======================
+INFO  18:56:29,465 - Program count calls = 1

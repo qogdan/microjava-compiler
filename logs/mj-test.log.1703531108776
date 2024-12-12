@@ -1,0 +1,6 @@
+INFO  19:34:57,694 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program.mj
+INFO  19:34:57,702 - #2 program
+INFO  19:34:57,702 - #3 MJProgram
+ERROR 19:34:57,702 - 
+Sintaksna greska na liniji 1
+ERROR 19:34:57,702 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 1

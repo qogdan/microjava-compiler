@@ -1,0 +1,35 @@
+INFO  18:37:37,321 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program.mj
+INFO  18:37:37,359 - #2 program
+INFO  18:37:37,360 - #3 MJProgram
+INFO  18:37:37,360 - #3 int
+INFO  18:37:37,361 - #3 xl
+INFO  18:37:37,364 - #12 [
+INFO  18:37:37,364 - #13 ]
+INFO  18:37:37,364 - #44 ;
+INFO  18:37:37,366 - #3 int
+INFO  18:37:37,366 - #3 abc
+INFO  18:37:37,366 - #44 ;
+INFO  18:37:37,367 - #7 {
+INFO  18:37:37,367 - #24 void
+INFO  18:37:37,368 - #3 f
+INFO  18:37:37,370 - #10 (
+INFO  18:37:37,370 - #11 )
+INFO  18:37:37,370 - #3 int
+INFO  18:37:37,370 - #3 i
+INFO  18:37:37,370 - #44 ;
+INFO  18:37:37,370 - #7 {
+INFO  18:37:37,370 - #17 break
+INFO  18:37:37,377 - #44 ;
+INFO  18:37:37,377 - #9 print
+INFO  18:37:37,378 - #10 (
+INFO  18:37:37,378 - #4 1
+INFO  18:37:37,378 - #28 +
+INFO  18:37:37,381 - #4 1
+INFO  18:37:37,382 - #11 )
+INFO  18:37:37,383 - #44 ;
+INFO  18:37:37,383 - #14 return
+INFO  18:37:37,383 - #3 i
+INFO  18:37:37,383 - #44 ;
+ERROR 18:37:37,384 - 
+Sintaksna greska na liniji 9
+ERROR 18:37:37,384 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

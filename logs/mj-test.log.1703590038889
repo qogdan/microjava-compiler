@@ -1,0 +1,35 @@
+INFO  12:26:42,865 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program.mj
+INFO  12:26:42,896 - #2 program
+INFO  12:26:42,896 - #3 MJProgram
+INFO  12:26:42,896 - #3 int
+INFO  12:26:42,897 - #3 x
+INFO  12:26:42,899 - #12 [
+INFO  12:26:42,899 - #13 ]
+INFO  12:26:42,899 - #46 ,
+INFO  12:26:42,901 - #3 y
+INFO  12:26:42,901 - #44 ;
+INFO  12:26:42,902 - #7 {
+INFO  12:26:42,903 - #8 }
+INFO  12:26:42,905 - Program(
+  DeclarationListDerived1(
+    DeclarationListDerived2(
+    ) [DeclarationListDerived2]
+    DeclarationDerived2(
+      VarDeclListDerived1(
+        TypeDerived1(
+        ) [TypeDerived1]
+        VarDeclDerived1(
+          VarItemDerived2(
+          ) [VarItemDerived2]
+          VarDeclDerived2(
+            VarItemDerived1(
+            ) [VarItemDerived1]
+          ) [VarDeclDerived2]
+        ) [VarDeclDerived1]
+      ) [VarDeclListDerived1]
+    ) [DeclarationDerived2]
+  ) [DeclarationListDerived1]
+) [Program]
+INFO  12:26:42,906 - =======================
+INFO  12:26:42,908 - Prepoznata naredba program
+INFO  12:26:42,908 - Program count calls = 1

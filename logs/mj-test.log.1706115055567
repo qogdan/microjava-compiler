@@ -1,0 +1,346 @@
+INFO  17:49:55,011 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program_old.mj
+INFO  17:49:55,102 - #6 program
+INFO  17:49:55,102 - #2 MJProgram
+INFO  17:49:55,102 - #2 int
+INFO  17:49:55,105 - #2 x
+INFO  17:49:55,106 - #44 ;
+INFO  17:49:55,108 - #2 int
+INFO  17:49:55,108 - #2 y
+INFO  17:49:55,108 - #44 ;
+INFO  17:49:55,108 - #20 const
+INFO  17:49:55,108 - #2 int
+INFO  17:49:55,108 - #2 p
+INFO  17:49:55,109 - #41 =
+INFO  17:49:55,109 - #4 3
+INFO  17:49:55,109 - #44 ;
+INFO  17:49:55,110 - #7 {
+INFO  17:49:55,111 - #24 void
+INFO  17:49:55,112 - #2 mp
+INFO  17:49:55,113 - #10 (
+INFO  17:49:55,115 - #11 )
+INFO  17:49:55,116 - #7 {
+INFO  17:49:55,117 - #8 }
+INFO  17:49:55,118 - #2 int
+INFO  17:49:55,119 - #2 k
+INFO  17:49:55,119 - #10 (
+INFO  17:49:55,119 - #11 )
+INFO  17:49:55,119 - #2 int
+INFO  17:49:55,119 - #2 c
+INFO  17:49:55,119 - #44 ;
+INFO  17:49:55,120 - #7 {
+INFO  17:49:55,120 - #2 c
+INFO  17:49:55,120 - #41 =
+INFO  17:49:55,122 - #4 2
+INFO  17:49:55,122 - #44 ;
+INFO  17:49:55,127 - #14 return
+INFO  17:49:55,127 - #2 c
+INFO  17:49:55,128 - #28 +
+INFO  17:49:55,128 - #4 2
+INFO  17:49:55,130 - #44 ;
+INFO  17:49:55,131 - #8 }
+INFO  17:49:55,131 - #2 int
+INFO  17:49:55,132 - #2 main
+INFO  17:49:55,132 - #10 (
+INFO  17:49:55,132 - #11 )
+INFO  17:49:55,132 - #7 {
+INFO  17:49:55,132 - #9 print
+INFO  17:49:55,132 - #10 (
+INFO  17:49:55,132 - #4 1
+INFO  17:49:55,132 - #11 )
+INFO  17:49:55,132 - #44 ;
+INFO  17:49:55,132 - #2 x
+INFO  17:49:55,133 - #41 =
+INFO  17:49:55,133 - #2 y
+INFO  17:49:55,133 - #28 +
+INFO  17:49:55,133 - #4 5
+INFO  17:49:55,133 - #28 +
+INFO  17:49:55,133 - #4 3
+INFO  17:49:55,133 - #44 ;
+INFO  17:49:55,134 - #9 print
+INFO  17:49:55,134 - #10 (
+INFO  17:49:55,134 - #4 2
+INFO  17:49:55,134 - #11 )
+INFO  17:49:55,134 - #44 ;
+INFO  17:49:55,135 - #2 mp
+INFO  17:49:55,139 - #10 (
+INFO  17:49:55,140 - #11 )
+INFO  17:49:55,140 - #44 ;
+INFO  17:49:55,141 - #8 }
+INFO  17:49:55,141 - #8 }
+INFO  17:49:55,150 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  DeclarationListt(
+    DeclarationListt(
+      DeclarationListt(
+        NoDeclarationLists(
+        ) [NoDeclarationLists]
+        DeclarationVarr(
+          VarDeclaration(
+            TypeIdent(
+             int
+            ) [TypeIdent]
+            OneDeclarationOneType(
+              VarItem(
+               x
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarItem]
+            ) [OneDeclarationOneType]
+          ) [VarDeclaration]
+        ) [DeclarationVarr]
+      ) [DeclarationListt]
+      DeclarationVarr(
+        VarDeclaration(
+          TypeIdent(
+           int
+          ) [TypeIdent]
+          OneDeclarationOneType(
+            VarItem(
+             y
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VarItem]
+          ) [OneDeclarationOneType]
+        ) [VarDeclaration]
+      ) [DeclarationVarr]
+    ) [DeclarationListt]
+    DeclarationConstt(
+      ConstDecll(
+        TypeIdent(
+         int
+        ) [TypeIdent]
+        OneConstDeclaration(
+          ConstItem(
+           p
+            NumberConstant(
+             3
+            ) [NumberConstant]
+          ) [ConstItem]
+        ) [OneConstDeclaration]
+      ) [ConstDecll]
+    ) [DeclarationConstt]
+  ) [DeclarationListt]
+  MethodDeclarationList(
+    MethodDeclarationList(
+      MethodDeclarationList(
+        NoMethodDeclaration(
+        ) [NoMethodDeclaration]
+        MethodDeclaration(
+          MethodTypeName(
+            MethReturnVoid(
+            ) [MethReturnVoid]
+           mp
+          ) [MethodTypeName]
+          FormParsListDerived2(
+          ) [FormParsListDerived2]
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          NoStatementList(
+          ) [NoStatementList]
+        ) [MethodDeclaration]
+      ) [MethodDeclarationList]
+      MethodDeclaration(
+        MethodTypeName(
+          MethReturnType(
+            TypeIdent(
+             int
+            ) [TypeIdent]
+          ) [MethReturnType]
+         k
+        ) [MethodTypeName]
+        FormParsListDerived2(
+        ) [FormParsListDerived2]
+        VarDeclarationListWrap(
+          OneVarDeclarations(
+            VarDeclaration(
+              TypeIdent(
+               int
+              ) [TypeIdent]
+              OneDeclarationOneType(
+                VarItem(
+                 c
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [VarItem]
+              ) [OneDeclarationOneType]
+            ) [VarDeclaration]
+          ) [OneVarDeclarations]
+        ) [VarDeclarationListWrap]
+        StatementListWrap(
+          StatementListWrap(
+            NoStatementList(
+            ) [NoStatementList]
+            DesignatorStatements(
+              AssignDesignator(
+                IdentDesignator(
+                 c
+                  NoDesignator(
+                  ) [NoDesignator]
+                ) [IdentDesignator]
+                TermExpression(
+                  Term(
+                    FactorNumber(
+                     2
+                    ) [FactorNumber]
+                    NoMulopFactor(
+                    ) [NoMulopFactor]
+                  ) [Term]
+                  NoAddopTerm(
+                  ) [NoAddopTerm]
+                ) [TermExpression]
+              ) [AssignDesignator]
+            ) [DesignatorStatements]
+          ) [StatementListWrap]
+          MatchedStatements(
+            ReturnExpressionStmt(
+              TermExpression(
+                Term(
+                  FactorDesignator(
+                    IdentDesignator(
+                     c
+                      NoDesignator(
+                      ) [NoDesignator]
+                    ) [IdentDesignator]
+                  ) [FactorDesignator]
+                  NoMulopFactor(
+                  ) [NoMulopFactor]
+                ) [Term]
+                AddopTerm(
+                  NoAddopTerm(
+                  ) [NoAddopTerm]
+                  AddopPLUS(
+                  ) [AddopPLUS]
+                  Term(
+                    FactorNumber(
+                     2
+                    ) [FactorNumber]
+                    NoMulopFactor(
+                    ) [NoMulopFactor]
+                  ) [Term]
+                ) [AddopTerm]
+              ) [TermExpression]
+            ) [ReturnExpressionStmt]
+          ) [MatchedStatements]
+        ) [StatementListWrap]
+      ) [MethodDeclaration]
+    ) [MethodDeclarationList]
+    MethodDeclaration(
+      MethodTypeName(
+        MethReturnType(
+          TypeIdent(
+           int
+          ) [TypeIdent]
+        ) [MethReturnType]
+       main
+      ) [MethodTypeName]
+      FormParsListDerived2(
+      ) [FormParsListDerived2]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      StatementListWrap(
+        StatementListWrap(
+          StatementListWrap(
+            StatementListWrap(
+              NoStatementList(
+              ) [NoStatementList]
+              MatchedStatements(
+                PrintExpression(
+                  TermExpression(
+                    Term(
+                      FactorNumber(
+                       1
+                      ) [FactorNumber]
+                      NoMulopFactor(
+                      ) [NoMulopFactor]
+                    ) [Term]
+                    NoAddopTerm(
+                    ) [NoAddopTerm]
+                  ) [TermExpression]
+                ) [PrintExpression]
+              ) [MatchedStatements]
+            ) [StatementListWrap]
+            DesignatorStatements(
+              AssignDesignator(
+                IdentDesignator(
+                 x
+                  NoDesignator(
+                  ) [NoDesignator]
+                ) [IdentDesignator]
+                TermExpression(
+                  Term(
+                    FactorDesignator(
+                      IdentDesignator(
+                       y
+                        NoDesignator(
+                        ) [NoDesignator]
+                      ) [IdentDesignator]
+                    ) [FactorDesignator]
+                    NoMulopFactor(
+                    ) [NoMulopFactor]
+                  ) [Term]
+                  AddopTerm(
+                    AddopTerm(
+                      NoAddopTerm(
+                      ) [NoAddopTerm]
+                      AddopPLUS(
+                      ) [AddopPLUS]
+                      Term(
+                        FactorNumber(
+                         5
+                        ) [FactorNumber]
+                        NoMulopFactor(
+                        ) [NoMulopFactor]
+                      ) [Term]
+                    ) [AddopTerm]
+                    AddopPLUS(
+                    ) [AddopPLUS]
+                    Term(
+                      FactorNumber(
+                       3
+                      ) [FactorNumber]
+                      NoMulopFactor(
+                      ) [NoMulopFactor]
+                    ) [Term]
+                  ) [AddopTerm]
+                ) [TermExpression]
+              ) [AssignDesignator]
+            ) [DesignatorStatements]
+          ) [StatementListWrap]
+          MatchedStatements(
+            PrintExpression(
+              TermExpression(
+                Term(
+                  FactorNumber(
+                   2
+                  ) [FactorNumber]
+                  NoMulopFactor(
+                  ) [NoMulopFactor]
+                ) [Term]
+                NoAddopTerm(
+                ) [NoAddopTerm]
+              ) [TermExpression]
+            ) [PrintExpression]
+          ) [MatchedStatements]
+        ) [StatementListWrap]
+        DesignatorStatements(
+          MethodDesignatorNoParam(
+            IdentDesignator(
+             mp
+              NoDesignator(
+              ) [NoDesignator]
+            ) [IdentDesignator]
+          ) [MethodDesignatorNoParam]
+        ) [DesignatorStatements]
+      ) [StatementListWrap]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  17:49:55,151 - =======================
+INFO  17:49:55,160 - Deklarisana promenljiva x Var x: int, 0, 0  na liniji 2
+INFO  17:49:55,161 - Deklarisana promenljiva y Var y: int, 1, 0  na liniji 2
+INFO  17:49:55,161 - Deklarisana kostanta p Con p: int, 0, 0  na liniji 3
+INFO  17:49:55,161 - Obradjuje se funkcija mp na liniji 5

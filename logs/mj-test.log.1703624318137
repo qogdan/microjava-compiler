@@ -1,0 +1,15 @@
+INFO  21:53:27,423 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program.mj
+INFO  21:53:27,474 - #2 program
+INFO  21:53:27,474 - #3 p
+INFO  21:53:27,474 - #16 namespace
+INFO  21:53:27,474 - #3 sizes
+INFO  21:53:27,474 - #7 {
+INFO  21:53:27,474 - #20 const
+INFO  21:53:27,475 - #3 int
+INFO  21:53:27,475 - #3 tableSize
+INFO  21:53:27,477 - #41 =
+INFO  21:53:27,477 - #4 10
+INFO  21:53:27,477 - #44 ;
+ERROR 21:53:27,478 - 
+Sintaksna greska na liniji 3
+ERROR 21:53:27,479 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 3

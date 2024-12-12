@@ -1,0 +1,70 @@
+INFO  18:34:59,042 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\program.mj
+INFO  18:34:59,079 - #2 program
+INFO  18:34:59,079 - #3 MJProgram
+INFO  18:34:59,079 - #3 int
+INFO  18:34:59,080 - #3 xl
+INFO  18:34:59,082 - #12 [
+INFO  18:34:59,082 - #13 ]
+INFO  18:34:59,082 - #44 ;
+INFO  18:34:59,084 - #3 int
+INFO  18:34:59,085 - #3 abc
+INFO  18:34:59,085 - #44 ;
+INFO  18:34:59,086 - #7 {
+INFO  18:34:59,086 - #24 void
+INFO  18:34:59,087 - #3 f
+INFO  18:34:59,088 - #10 (
+INFO  18:34:59,088 - #11 )
+INFO  18:34:59,088 - #3 int
+INFO  18:34:59,088 - #3 i
+INFO  18:34:59,088 - #44 ;
+INFO  18:34:59,088 - #7 {
+INFO  18:34:59,088 - #8 }
+INFO  18:34:59,094 - #8 }
+INFO  18:34:59,096 - Program(
+  DeclarationListDerived1(
+    DeclarationListDerived1(
+      DeclarationListDerived2(
+      ) [DeclarationListDerived2]
+      DeclarationDerived2(
+        VarDeclDerived1(
+          TypeDerived1(
+          ) [TypeDerived1]
+          VarDeclarationsDerived2(
+            VarItemDerived2(
+            ) [VarItemDerived2]
+          ) [VarDeclarationsDerived2]
+        ) [VarDeclDerived1]
+      ) [DeclarationDerived2]
+    ) [DeclarationListDerived1]
+    DeclarationDerived2(
+      VarDeclDerived1(
+        TypeDerived1(
+        ) [TypeDerived1]
+        VarDeclarationsDerived2(
+          VarItemDerived1(
+          ) [VarItemDerived1]
+        ) [VarDeclarationsDerived2]
+      ) [VarDeclDerived1]
+    ) [DeclarationDerived2]
+  ) [DeclarationListDerived1]
+  MethodDeclListDerived1(
+    MethodDeclListDerived2(
+    ) [MethodDeclListDerived2]
+    MethodDeclDerived1(
+      MethodReturnTypeDerived2(
+      ) [MethodReturnTypeDerived2]
+      VarDeclDerived1(
+        TypeDerived1(
+        ) [TypeDerived1]
+        VarDeclarationsDerived2(
+          VarItemDerived1(
+          ) [VarItemDerived1]
+        ) [VarDeclarationsDerived2]
+      ) [VarDeclDerived1]
+      StatementListDerived2(
+      ) [StatementListDerived2]
+    ) [MethodDeclDerived1]
+  ) [MethodDeclListDerived1]
+) [Program]
+INFO  18:34:59,096 - =======================
+INFO  18:34:59,098 - Program count calls = 1

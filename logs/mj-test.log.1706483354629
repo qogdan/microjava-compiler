@@ -1,0 +1,1321 @@
+INFO  00:08:25,236 - Compiling source file: C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\IV god\PP1\Projekat\pp1projekat-jan2023_24\MJCompiler\test\test301.mj
+INFO  00:08:25,314 - #6 program
+INFO  00:08:25,314 - #2 test301
+INFO  00:08:25,315 - #16 namespace
+INFO  00:08:25,316 - #2 Konstante
+INFO  00:08:25,317 - #7 {
+INFO  00:08:25,318 - #20 const
+INFO  00:08:25,319 - #2 int
+INFO  00:08:25,319 - #2 nula
+INFO  00:08:25,319 - #41 =
+INFO  00:08:25,319 - #4 0
+INFO  00:08:25,319 - #44 ;
+INFO  00:08:25,320 - #20 const
+INFO  00:08:25,320 - #2 int
+INFO  00:08:25,320 - #2 jedan
+INFO  00:08:25,320 - #41 =
+INFO  00:08:25,321 - #4 1
+INFO  00:08:25,321 - #44 ;
+INFO  00:08:25,321 - #20 const
+INFO  00:08:25,321 - #2 int
+INFO  00:08:25,321 - #2 pet
+INFO  00:08:25,321 - #41 =
+INFO  00:08:25,321 - #4 5
+INFO  00:08:25,321 - #44 ;
+INFO  00:08:25,321 - #7 {
+INFO  00:08:25,321 - #8 }
+INFO  00:08:25,322 - #8 }
+INFO  00:08:25,323 - #16 namespace
+INFO  00:08:25,323 - #2 Nizovi
+INFO  00:08:25,323 - #7 {
+INFO  00:08:25,323 - #2 int
+INFO  00:08:25,323 - #2 niz
+INFO  00:08:25,323 - #12 [
+INFO  00:08:25,323 - #13 ]
+INFO  00:08:25,323 - #44 ;
+INFO  00:08:25,325 - #2 char
+INFO  00:08:25,325 - #2 nizch
+INFO  00:08:25,325 - #12 [
+INFO  00:08:25,325 - #13 ]
+INFO  00:08:25,325 - #44 ;
+INFO  00:08:25,326 - #7 {
+INFO  00:08:25,326 - #8 }
+INFO  00:08:25,326 - #8 }
+INFO  00:08:25,326 - #2 int
+INFO  00:08:25,326 - #2 a
+INFO  00:08:25,326 - #46 ,
+INFO  00:08:25,327 - #2 b
+INFO  00:08:25,327 - #44 ;
+INFO  00:08:25,327 - #7 {
+INFO  00:08:25,328 - #24 void
+INFO  00:08:25,328 - #2 main
+INFO  00:08:25,328 - #10 (
+INFO  00:08:25,329 - #11 )
+INFO  00:08:25,330 - #2 int
+INFO  00:08:25,330 - #2 bodovi
+INFO  00:08:25,331 - #44 ;
+INFO  00:08:25,331 - #2 bool
+INFO  00:08:25,331 - #2 bt
+INFO  00:08:25,331 - #44 ;
+INFO  00:08:25,331 - #7 {
+INFO  00:08:25,331 - #2 bodovi
+INFO  00:08:25,332 - #41 =
+INFO  00:08:25,334 - #4 0
+INFO  00:08:25,334 - #44 ;
+INFO  00:08:25,334 - #2 bodovi
+INFO  00:08:25,335 - #42 ++
+INFO  00:08:25,335 - #44 ;
+INFO  00:08:25,335 - #2 bodovi
+INFO  00:08:25,335 - #41 =
+INFO  00:08:25,335 - #2 bodovi
+INFO  00:08:25,335 - #28 +
+INFO  00:08:25,336 - #2 Konstante
+INFO  00:08:25,337 - #45 :
+INFO  00:08:25,338 - #45 :
+INFO  00:08:25,338 - #2 jedan
+INFO  00:08:25,338 - #44 ;
+INFO  00:08:25,338 - #2 bodovi
+INFO  00:08:25,338 - #41 =
+INFO  00:08:25,338 - #2 bodovi
+INFO  00:08:25,338 - #30 *
+INFO  00:08:25,338 - #2 Konstante
+INFO  00:08:25,340 - #45 :
+INFO  00:08:25,340 - #45 :
+INFO  00:08:25,340 - #2 pet
+INFO  00:08:25,340 - #44 ;
+INFO  00:08:25,341 - #2 bodovi
+INFO  00:08:25,341 - #43 --
+INFO  00:08:25,341 - #44 ;
+INFO  00:08:25,341 - #9 print
+INFO  00:08:25,341 - #10 (
+INFO  00:08:25,341 - #2 bodovi
+INFO  00:08:25,341 - #11 )
+INFO  00:08:25,341 - #44 ;
+INFO  00:08:25,341 - #2 Nizovi
+INFO  00:08:25,342 - #45 :
+INFO  00:08:25,342 - #45 :
+INFO  00:08:25,342 - #2 niz
+INFO  00:08:25,342 - #41 =
+INFO  00:08:25,342 - #22 new
+INFO  00:08:25,342 - #2 int
+INFO  00:08:25,342 - #12 [
+INFO  00:08:25,342 - #4 3
+INFO  00:08:25,342 - #13 ]
+INFO  00:08:25,342 - #44 ;
+INFO  00:08:25,343 - #2 Nizovi
+INFO  00:08:25,343 - #45 :
+INFO  00:08:25,343 - #45 :
+INFO  00:08:25,343 - #2 niz
+INFO  00:08:25,343 - #12 [
+INFO  00:08:25,343 - #2 Konstante
+INFO  00:08:25,343 - #45 :
+INFO  00:08:25,343 - #45 :
+INFO  00:08:25,343 - #2 nula
+INFO  00:08:25,343 - #13 ]
+INFO  00:08:25,343 - #41 =
+INFO  00:08:25,344 - #2 Konstante
+INFO  00:08:25,344 - #45 :
+INFO  00:08:25,344 - #45 :
+INFO  00:08:25,344 - #2 jedan
+INFO  00:08:25,344 - #44 ;
+INFO  00:08:25,344 - #2 Nizovi
+INFO  00:08:25,344 - #45 :
+INFO  00:08:25,344 - #45 :
+INFO  00:08:25,344 - #2 niz
+INFO  00:08:25,344 - #12 [
+INFO  00:08:25,344 - #4 1
+INFO  00:08:25,344 - #13 ]
+INFO  00:08:25,345 - #41 =
+INFO  00:08:25,345 - #4 2
+INFO  00:08:25,345 - #44 ;
+INFO  00:08:25,345 - #2 Nizovi
+INFO  00:08:25,345 - #45 :
+INFO  00:08:25,345 - #45 :
+INFO  00:08:25,345 - #2 niz
+INFO  00:08:25,345 - #12 [
+INFO  00:08:25,345 - #2 Nizovi
+INFO  00:08:25,345 - #45 :
+INFO  00:08:25,345 - #45 :
+INFO  00:08:25,345 - #2 niz
+INFO  00:08:25,345 - #12 [
+INFO  00:08:25,345 - #2 Konstante
+INFO  00:08:25,345 - #45 :
+INFO  00:08:25,346 - #45 :
+INFO  00:08:25,346 - #2 jedan
+INFO  00:08:25,346 - #13 ]
+INFO  00:08:25,346 - #13 ]
+INFO  00:08:25,346 - #41 =
+INFO  00:08:25,346 - #2 Nizovi
+INFO  00:08:25,346 - #45 :
+INFO  00:08:25,346 - #45 :
+INFO  00:08:25,346 - #2 niz
+INFO  00:08:25,346 - #12 [
+INFO  00:08:25,346 - #2 Nizovi
+INFO  00:08:25,346 - #45 :
+INFO  00:08:25,346 - #45 :
+INFO  00:08:25,346 - #2 niz
+INFO  00:08:25,346 - #12 [
+INFO  00:08:25,346 - #4 0
+INFO  00:08:25,346 - #13 ]
+INFO  00:08:25,346 - #13 ]
+INFO  00:08:25,346 - #30 *
+INFO  00:08:25,347 - #4 3
+INFO  00:08:25,347 - #44 ;
+INFO  00:08:25,347 - #2 bodovi
+INFO  00:08:25,347 - #41 =
+INFO  00:08:25,347 - #2 Nizovi
+INFO  00:08:25,347 - #45 :
+INFO  00:08:25,347 - #45 :
+INFO  00:08:25,347 - #2 niz
+INFO  00:08:25,347 - #12 [
+INFO  00:08:25,347 - #4 2
+INFO  00:08:25,347 - #13 ]
+INFO  00:08:25,347 - #31 /
+INFO  00:08:25,347 - #2 Nizovi
+INFO  00:08:25,349 - #45 :
+INFO  00:08:25,349 - #45 :
+INFO  00:08:25,349 - #2 niz
+INFO  00:08:25,349 - #12 [
+INFO  00:08:25,349 - #4 0
+INFO  00:08:25,349 - #13 ]
+INFO  00:08:25,349 - #44 ;
+INFO  00:08:25,350 - #9 print
+INFO  00:08:25,350 - #10 (
+INFO  00:08:25,350 - #2 bodovi
+INFO  00:08:25,350 - #11 )
+INFO  00:08:25,350 - #44 ;
+INFO  00:08:25,350 - #9 print
+INFO  00:08:25,350 - #10 (
+INFO  00:08:25,350 - #2 Nizovi
+INFO  00:08:25,350 - #45 :
+INFO  00:08:25,350 - #45 :
+INFO  00:08:25,350 - #2 niz
+INFO  00:08:25,350 - #12 [
+INFO  00:08:25,350 - #4 2
+INFO  00:08:25,351 - #13 ]
+INFO  00:08:25,351 - #11 )
+INFO  00:08:25,351 - #44 ;
+INFO  00:08:25,351 - #2 Nizovi
+INFO  00:08:25,351 - #45 :
+INFO  00:08:25,351 - #45 :
+INFO  00:08:25,351 - #2 nizch
+INFO  00:08:25,351 - #41 =
+INFO  00:08:25,351 - #22 new
+INFO  00:08:25,351 - #2 char
+INFO  00:08:25,351 - #12 [
+INFO  00:08:25,351 - #4 3
+INFO  00:08:25,351 - #13 ]
+INFO  00:08:25,351 - #44 ;
+INFO  00:08:25,352 - #2 Nizovi
+INFO  00:08:25,352 - #45 :
+INFO  00:08:25,352 - #45 :
+INFO  00:08:25,352 - #2 nizch
+INFO  00:08:25,352 - #12 [
+INFO  00:08:25,352 - #4 0
+INFO  00:08:25,352 - #13 ]
+INFO  00:08:25,352 - #41 =
+INFO  00:08:25,352 - #3 a
+INFO  00:08:25,352 - #44 ;
+INFO  00:08:25,352 - #2 Nizovi
+INFO  00:08:25,352 - #45 :
+INFO  00:08:25,352 - #45 :
+INFO  00:08:25,353 - #2 nizch
+INFO  00:08:25,353 - #12 [
+INFO  00:08:25,353 - #2 Konstante
+INFO  00:08:25,353 - #45 :
+INFO  00:08:25,353 - #45 :
+INFO  00:08:25,353 - #2 jedan
+INFO  00:08:25,353 - #13 ]
+INFO  00:08:25,353 - #41 =
+INFO  00:08:25,353 - #3 b
+INFO  00:08:25,353 - #44 ;
+INFO  00:08:25,353 - #2 Nizovi
+INFO  00:08:25,353 - #45 :
+INFO  00:08:25,353 - #45 :
+INFO  00:08:25,353 - #2 nizch
+INFO  00:08:25,353 - #12 [
+INFO  00:08:25,353 - #2 Konstante
+INFO  00:08:25,354 - #45 :
+INFO  00:08:25,354 - #45 :
+INFO  00:08:25,354 - #2 pet
+INFO  00:08:25,354 - #29 -
+INFO  00:08:25,354 - #4 3
+INFO  00:08:25,355 - #13 ]
+INFO  00:08:25,355 - #41 =
+INFO  00:08:25,355 - #3 c
+INFO  00:08:25,355 - #44 ;
+INFO  00:08:25,355 - #9 print
+INFO  00:08:25,356 - #10 (
+INFO  00:08:25,356 - #2 Nizovi
+INFO  00:08:25,356 - #45 :
+INFO  00:08:25,356 - #45 :
+INFO  00:08:25,356 - #2 nizch
+INFO  00:08:25,356 - #12 [
+INFO  00:08:25,356 - #4 1
+INFO  00:08:25,356 - #13 ]
+INFO  00:08:25,356 - #11 )
+INFO  00:08:25,356 - #44 ;
+INFO  00:08:25,356 - #9 print
+INFO  00:08:25,356 - #10 (
+INFO  00:08:25,356 - #2 Nizovi
+INFO  00:08:25,356 - #45 :
+INFO  00:08:25,357 - #45 :
+INFO  00:08:25,357 - #2 nizch
+INFO  00:08:25,357 - #12 [
+INFO  00:08:25,357 - #2 Konstante
+INFO  00:08:25,357 - #45 :
+INFO  00:08:25,357 - #45 :
+INFO  00:08:25,357 - #2 jedan
+INFO  00:08:25,357 - #30 *
+INFO  00:08:25,357 - #4 2
+INFO  00:08:25,357 - #13 ]
+INFO  00:08:25,357 - #11 )
+INFO  00:08:25,357 - #44 ;
+INFO  00:08:25,357 - #2 a
+INFO  00:08:25,357 - #41 =
+INFO  00:08:25,357 - #4 1
+INFO  00:08:25,357 - #44 ;
+INFO  00:08:25,357 - #23 read
+INFO  00:08:25,358 - #10 (
+INFO  00:08:25,358 - #2 bodovi
+INFO  00:08:25,358 - #11 )
+INFO  00:08:25,358 - #44 ;
+INFO  00:08:25,358 - #2 bodovi
+INFO  00:08:25,358 - #41 =
+INFO  00:08:25,358 - #29 -
+INFO  00:08:25,358 - #2 bodovi
+INFO  00:08:25,358 - #28 +
+INFO  00:08:25,358 - #10 (
+INFO  00:08:25,358 - #2 Konstante
+INFO  00:08:25,358 - #45 :
+INFO  00:08:25,358 - #45 :
+INFO  00:08:25,358 - #2 pet
+INFO  00:08:25,358 - #30 *
+INFO  00:08:25,358 - #2 a
+INFO  00:08:25,358 - #31 /
+INFO  00:08:25,359 - #4 2
+INFO  00:08:25,359 - #29 -
+INFO  00:08:25,359 - #2 Konstante
+INFO  00:08:25,359 - #45 :
+INFO  00:08:25,359 - #45 :
+INFO  00:08:25,359 - #2 jedan
+INFO  00:08:25,359 - #11 )
+INFO  00:08:25,359 - #30 *
+INFO  00:08:25,359 - #2 bodovi
+INFO  00:08:25,359 - #29 -
+INFO  00:08:25,359 - #10 (
+INFO  00:08:25,359 - #4 3
+INFO  00:08:25,359 - #32 %
+INFO  00:08:25,359 - #4 2
+INFO  00:08:25,360 - #28 +
+INFO  00:08:25,361 - #4 3
+INFO  00:08:25,361 - #30 *
+INFO  00:08:25,361 - #4 2
+INFO  00:08:25,361 - #29 -
+INFO  00:08:25,361 - #4 3
+INFO  00:08:25,361 - #11 )
+INFO  00:08:25,361 - #44 ;
+INFO  00:08:25,361 - #9 print
+INFO  00:08:25,361 - #10 (
+INFO  00:08:25,361 - #2 bodovi
+INFO  00:08:25,361 - #11 )
+INFO  00:08:25,361 - #44 ;
+INFO  00:08:25,361 - #8 }
+INFO  00:08:25,361 - #8 }
+INFO  00:08:25,374 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceListt(
+    NamespaceListt(
+      NoNamespaceList(
+      ) [NoNamespaceList]
+      NamespaceDecl(
+        NamespaceName(
+         Konstante
+        ) [NamespaceName]
+        DeclarationListt(
+          DeclarationListt(
+            DeclarationListt(
+              NoDeclarationLists(
+              ) [NoDeclarationLists]
+              DeclarationConstt(
+                ConstDecll(
+                  OneConstDeclaration(
+                    ConstItem(
+                      TypeIdent(
+                       int
+                      ) [TypeIdent]
+                     nula
+                      NumberConstant(
+                       0
+                      ) [NumberConstant]
+                    ) [ConstItem]
+                  ) [OneConstDeclaration]
+                ) [ConstDecll]
+              ) [DeclarationConstt]
+            ) [DeclarationListt]
+            DeclarationConstt(
+              ConstDecll(
+                OneConstDeclaration(
+                  ConstItem(
+                    TypeIdent(
+                     int
+                    ) [TypeIdent]
+                   jedan
+                    NumberConstant(
+                     1
+                    ) [NumberConstant]
+                  ) [ConstItem]
+                ) [OneConstDeclaration]
+              ) [ConstDecll]
+            ) [DeclarationConstt]
+          ) [DeclarationListt]
+          DeclarationConstt(
+            ConstDecll(
+              OneConstDeclaration(
+                ConstItem(
+                  TypeIdent(
+                   int
+                  ) [TypeIdent]
+                 pet
+                  NumberConstant(
+                   5
+                  ) [NumberConstant]
+                ) [ConstItem]
+              ) [OneConstDeclaration]
+            ) [ConstDecll]
+          ) [DeclarationConstt]
+        ) [DeclarationListt]
+        NoMethodDeclaration(
+        ) [NoMethodDeclaration]
+      ) [NamespaceDecl]
+    ) [NamespaceListt]
+    NamespaceDecl(
+      NamespaceName(
+       Nizovi
+      ) [NamespaceName]
+      DeclarationListt(
+        DeclarationListt(
+          NoDeclarationLists(
+          ) [NoDeclarationLists]
+          DeclarationVarr(
+            VarDeclaration(
+              TypeIdent(
+               int
+              ) [TypeIdent]
+              OneDeclarationOneType(
+                VarItem(
+                 niz
+                  WithBrackets(
+                  ) [WithBrackets]
+                ) [VarItem]
+              ) [OneDeclarationOneType]
+            ) [VarDeclaration]
+          ) [DeclarationVarr]
+        ) [DeclarationListt]
+        DeclarationVarr(
+          VarDeclaration(
+            TypeIdent(
+             char
+            ) [TypeIdent]
+            OneDeclarationOneType(
+              VarItem(
+               nizch
+                WithBrackets(
+                ) [WithBrackets]
+              ) [VarItem]
+            ) [OneDeclarationOneType]
+          ) [VarDeclaration]
+        ) [DeclarationVarr]
+      ) [DeclarationListt]
+      NoMethodDeclaration(
+      ) [NoMethodDeclaration]
+    ) [NamespaceDecl]
+  ) [NamespaceListt]
+  DeclarationListt(
+    NoDeclarationLists(
+    ) [NoDeclarationLists]
+    DeclarationVarr(
+      VarDeclaration(
+        TypeIdent(
+         int
+        ) [TypeIdent]
+        MulDeclarationsOneType(
+          VarItem(
+           a
+            NoBrackets(
+            ) [NoBrackets]
+          ) [VarItem]
+          OneDeclarationOneType(
+            VarItem(
+             b
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VarItem]
+          ) [OneDeclarationOneType]
+        ) [MulDeclarationsOneType]
+      ) [VarDeclaration]
+    ) [DeclarationVarr]
+  ) [DeclarationListt]
+  MethodDeclarationList(
+    NoMethodDeclaration(
+    ) [NoMethodDeclaration]
+    MethodDeclaration(
+      MethodTypeName(
+        MethReturnVoid(
+        ) [MethReturnVoid]
+       main
+      ) [MethodTypeName]
+      FormParsListDerived2(
+      ) [FormParsListDerived2]
+      VarDeclarationListWrap(
+        MulVarDeclarations(
+          OneVarDeclarations(
+            VarDeclaration(
+              TypeIdent(
+               int
+              ) [TypeIdent]
+              OneDeclarationOneType(
+                VarItem(
+                 bodovi
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [VarItem]
+              ) [OneDeclarationOneType]
+            ) [VarDeclaration]
+          ) [OneVarDeclarations]
+          VarDeclaration(
+            TypeIdent(
+             bool
+            ) [TypeIdent]
+            OneDeclarationOneType(
+              VarItem(
+               bt
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarItem]
+            ) [OneDeclarationOneType]
+          ) [VarDeclaration]
+        ) [MulVarDeclarations]
+      ) [VarDeclarationListWrap]
+      StatementListWrap(
+        StatementListWrap(
+          StatementListWrap(
+            StatementListWrap(
+              StatementListWrap(
+                StatementListWrap(
+                  StatementListWrap(
+                    StatementListWrap(
+                      StatementListWrap(
+                        StatementListWrap(
+                          StatementListWrap(
+                            StatementListWrap(
+                              StatementListWrap(
+                                StatementListWrap(
+                                  StatementListWrap(
+                                    StatementListWrap(
+                                      StatementListWrap(
+                                        StatementListWrap(
+                                          StatementListWrap(
+                                            StatementListWrap(
+                                              StatementListWrap(
+                                                StatementListWrap(
+                                                  StatementListWrap(
+                                                    NoStatementList(
+                                                    ) [NoStatementList]
+                                                    DesignatorStatements(
+                                                      AssignDesignator(
+                                                        IdentDesignator(
+                                                         bodovi
+                                                          NoDesignator(
+                                                          ) [NoDesignator]
+                                                        ) [IdentDesignator]
+                                                        TermExpression(
+                                                          TermNoMulop(
+                                                            FactorNumber(
+                                                             0
+                                                            ) [FactorNumber]
+                                                          ) [TermNoMulop]
+                                                        ) [TermExpression]
+                                                      ) [AssignDesignator]
+                                                    ) [DesignatorStatements]
+                                                  ) [StatementListWrap]
+                                                  DesignatorStatements(
+                                                    IncrementDesignator(
+                                                      IdentDesignator(
+                                                       bodovi
+                                                        NoDesignator(
+                                                        ) [NoDesignator]
+                                                      ) [IdentDesignator]
+                                                    ) [IncrementDesignator]
+                                                  ) [DesignatorStatements]
+                                                ) [StatementListWrap]
+                                                DesignatorStatements(
+                                                  AssignDesignator(
+                                                    IdentDesignator(
+                                                     bodovi
+                                                      NoDesignator(
+                                                      ) [NoDesignator]
+                                                    ) [IdentDesignator]
+                                                    AddopExpr(
+                                                      TermExpression(
+                                                        TermNoMulop(
+                                                          FactorDesignator(
+                                                            IdentDesignator(
+                                                             bodovi
+                                                              NoDesignator(
+                                                              ) [NoDesignator]
+                                                            ) [IdentDesignator]
+                                                          ) [FactorDesignator]
+                                                        ) [TermNoMulop]
+                                                      ) [TermExpression]
+                                                      AddopPLUS(
+                                                      ) [AddopPLUS]
+                                                      TermNoMulop(
+                                                        FactorDesignator(
+                                                          ScopeResDesignator(
+                                                           Konstante
+                                                           jedan
+                                                            NoDesignator(
+                                                            ) [NoDesignator]
+                                                          ) [ScopeResDesignator]
+                                                        ) [FactorDesignator]
+                                                      ) [TermNoMulop]
+                                                    ) [AddopExpr]
+                                                  ) [AssignDesignator]
+                                                ) [DesignatorStatements]
+                                              ) [StatementListWrap]
+                                              DesignatorStatements(
+                                                AssignDesignator(
+                                                  IdentDesignator(
+                                                   bodovi
+                                                    NoDesignator(
+                                                    ) [NoDesignator]
+                                                  ) [IdentDesignator]
+                                                  TermExpression(
+                                                    MulopTerm(
+                                                      TermNoMulop(
+                                                        FactorDesignator(
+                                                          IdentDesignator(
+                                                           bodovi
+                                                            NoDesignator(
+                                                            ) [NoDesignator]
+                                                          ) [IdentDesignator]
+                                                        ) [FactorDesignator]
+                                                      ) [TermNoMulop]
+                                                      MulopMUL(
+                                                      ) [MulopMUL]
+                                                      FactorDesignator(
+                                                        ScopeResDesignator(
+                                                         Konstante
+                                                         pet
+                                                          NoDesignator(
+                                                          ) [NoDesignator]
+                                                        ) [ScopeResDesignator]
+                                                      ) [FactorDesignator]
+                                                    ) [MulopTerm]
+                                                  ) [TermExpression]
+                                                ) [AssignDesignator]
+                                              ) [DesignatorStatements]
+                                            ) [StatementListWrap]
+                                            DesignatorStatements(
+                                              DecrementDesignator(
+                                                IdentDesignator(
+                                                 bodovi
+                                                  NoDesignator(
+                                                  ) [NoDesignator]
+                                                ) [IdentDesignator]
+                                              ) [DecrementDesignator]
+                                            ) [DesignatorStatements]
+                                          ) [StatementListWrap]
+                                          MatchedStatements(
+                                            PrintExpression(
+                                              TermExpression(
+                                                TermNoMulop(
+                                                  FactorDesignator(
+                                                    IdentDesignator(
+                                                     bodovi
+                                                      NoDesignator(
+                                                      ) [NoDesignator]
+                                                    ) [IdentDesignator]
+                                                  ) [FactorDesignator]
+                                                ) [TermNoMulop]
+                                              ) [TermExpression]
+                                            ) [PrintExpression]
+                                          ) [MatchedStatements]
+                                        ) [StatementListWrap]
+                                        DesignatorStatements(
+                                          AssignDesignator(
+                                            ScopeResDesignator(
+                                             Nizovi
+                                             niz
+                                              NoDesignator(
+                                              ) [NoDesignator]
+                                            ) [ScopeResDesignator]
+                                            TermExpression(
+                                              TermNoMulop(
+                                                FactorNEWExpr(
+                                                  TypeIdent(
+                                                   int
+                                                  ) [TypeIdent]
+                                                  TermExpression(
+                                                    TermNoMulop(
+                                                      FactorNumber(
+                                                       3
+                                                      ) [FactorNumber]
+                                                    ) [TermNoMulop]
+                                                  ) [TermExpression]
+                                                ) [FactorNEWExpr]
+                                              ) [TermNoMulop]
+                                            ) [TermExpression]
+                                          ) [AssignDesignator]
+                                        ) [DesignatorStatements]
+                                      ) [StatementListWrap]
+                                      DesignatorStatements(
+                                        AssignDesignator(
+                                          ScopeResDesignator(
+                                           Nizovi
+                                           niz
+                                            DesignatorListWrap(
+                                              NoDesignator(
+                                              ) [NoDesignator]
+                                              BracketsDesignator(
+                                                TermExpression(
+                                                  TermNoMulop(
+                                                    FactorDesignator(
+                                                      ScopeResDesignator(
+                                                       Konstante
+                                                       nula
+                                                        NoDesignator(
+                                                        ) [NoDesignator]
+                                                      ) [ScopeResDesignator]
+                                                    ) [FactorDesignator]
+                                                  ) [TermNoMulop]
+                                                ) [TermExpression]
+                                              ) [BracketsDesignator]
+                                            ) [DesignatorListWrap]
+                                          ) [ScopeResDesignator]
+                                          TermExpression(
+                                            TermNoMulop(
+                                              FactorDesignator(
+                                                ScopeResDesignator(
+                                                 Konstante
+                                                 jedan
+                                                  NoDesignator(
+                                                  ) [NoDesignator]
+                                                ) [ScopeResDesignator]
+                                              ) [FactorDesignator]
+                                            ) [TermNoMulop]
+                                          ) [TermExpression]
+                                        ) [AssignDesignator]
+                                      ) [DesignatorStatements]
+                                    ) [StatementListWrap]
+                                    DesignatorStatements(
+                                      AssignDesignator(
+                                        ScopeResDesignator(
+                                         Nizovi
+                                         niz
+                                          DesignatorListWrap(
+                                            NoDesignator(
+                                            ) [NoDesignator]
+                                            BracketsDesignator(
+                                              TermExpression(
+                                                TermNoMulop(
+                                                  FactorNumber(
+                                                   1
+                                                  ) [FactorNumber]
+                                                ) [TermNoMulop]
+                                              ) [TermExpression]
+                                            ) [BracketsDesignator]
+                                          ) [DesignatorListWrap]
+                                        ) [ScopeResDesignator]
+                                        TermExpression(
+                                          TermNoMulop(
+                                            FactorNumber(
+                                             2
+                                            ) [FactorNumber]
+                                          ) [TermNoMulop]
+                                        ) [TermExpression]
+                                      ) [AssignDesignator]
+                                    ) [DesignatorStatements]
+                                  ) [StatementListWrap]
+                                  DesignatorStatements(
+                                    AssignDesignator(
+                                      ScopeResDesignator(
+                                       Nizovi
+                                       niz
+                                        DesignatorListWrap(
+                                          NoDesignator(
+                                          ) [NoDesignator]
+                                          BracketsDesignator(
+                                            TermExpression(
+                                              TermNoMulop(
+                                                FactorDesignator(
+                                                  ScopeResDesignator(
+                                                   Nizovi
+                                                   niz
+                                                    DesignatorListWrap(
+                                                      NoDesignator(
+                                                      ) [NoDesignator]
+                                                      BracketsDesignator(
+                                                        TermExpression(
+                                                          TermNoMulop(
+                                                            FactorDesignator(
+                                                              ScopeResDesignator(
+                                                               Konstante
+                                                               jedan
+                                                                NoDesignator(
+                                                                ) [NoDesignator]
+                                                              ) [ScopeResDesignator]
+                                                            ) [FactorDesignator]
+                                                          ) [TermNoMulop]
+                                                        ) [TermExpression]
+                                                      ) [BracketsDesignator]
+                                                    ) [DesignatorListWrap]
+                                                  ) [ScopeResDesignator]
+                                                ) [FactorDesignator]
+                                              ) [TermNoMulop]
+                                            ) [TermExpression]
+                                          ) [BracketsDesignator]
+                                        ) [DesignatorListWrap]
+                                      ) [ScopeResDesignator]
+                                      TermExpression(
+                                        MulopTerm(
+                                          TermNoMulop(
+                                            FactorDesignator(
+                                              ScopeResDesignator(
+                                               Nizovi
+                                               niz
+                                                DesignatorListWrap(
+                                                  NoDesignator(
+                                                  ) [NoDesignator]
+                                                  BracketsDesignator(
+                                                    TermExpression(
+                                                      TermNoMulop(
+                                                        FactorDesignator(
+                                                          ScopeResDesignator(
+                                                           Nizovi
+                                                           niz
+                                                            DesignatorListWrap(
+                                                              NoDesignator(
+                                                              ) [NoDesignator]
+                                                              BracketsDesignator(
+                                                                TermExpression(
+                                                                  TermNoMulop(
+                                                                    FactorNumber(
+                                                                     0
+                                                                    ) [FactorNumber]
+                                                                  ) [TermNoMulop]
+                                                                ) [TermExpression]
+                                                              ) [BracketsDesignator]
+                                                            ) [DesignatorListWrap]
+                                                          ) [ScopeResDesignator]
+                                                        ) [FactorDesignator]
+                                                      ) [TermNoMulop]
+                                                    ) [TermExpression]
+                                                  ) [BracketsDesignator]
+                                                ) [DesignatorListWrap]
+                                              ) [ScopeResDesignator]
+                                            ) [FactorDesignator]
+                                          ) [TermNoMulop]
+                                          MulopMUL(
+                                          ) [MulopMUL]
+                                          FactorNumber(
+                                           3
+                                          ) [FactorNumber]
+                                        ) [MulopTerm]
+                                      ) [TermExpression]
+                                    ) [AssignDesignator]
+                                  ) [DesignatorStatements]
+                                ) [StatementListWrap]
+                                DesignatorStatements(
+                                  AssignDesignator(
+                                    IdentDesignator(
+                                     bodovi
+                                      NoDesignator(
+                                      ) [NoDesignator]
+                                    ) [IdentDesignator]
+                                    TermExpression(
+                                      MulopTerm(
+                                        TermNoMulop(
+                                          FactorDesignator(
+                                            ScopeResDesignator(
+                                             Nizovi
+                                             niz
+                                              DesignatorListWrap(
+                                                NoDesignator(
+                                                ) [NoDesignator]
+                                                BracketsDesignator(
+                                                  TermExpression(
+                                                    TermNoMulop(
+                                                      FactorNumber(
+                                                       2
+                                                      ) [FactorNumber]
+                                                    ) [TermNoMulop]
+                                                  ) [TermExpression]
+                                                ) [BracketsDesignator]
+                                              ) [DesignatorListWrap]
+                                            ) [ScopeResDesignator]
+                                          ) [FactorDesignator]
+                                        ) [TermNoMulop]
+                                        MulopDIV(
+                                        ) [MulopDIV]
+                                        FactorDesignator(
+                                          ScopeResDesignator(
+                                           Nizovi
+                                           niz
+                                            DesignatorListWrap(
+                                              NoDesignator(
+                                              ) [NoDesignator]
+                                              BracketsDesignator(
+                                                TermExpression(
+                                                  TermNoMulop(
+                                                    FactorNumber(
+                                                     0
+                                                    ) [FactorNumber]
+                                                  ) [TermNoMulop]
+                                                ) [TermExpression]
+                                              ) [BracketsDesignator]
+                                            ) [DesignatorListWrap]
+                                          ) [ScopeResDesignator]
+                                        ) [FactorDesignator]
+                                      ) [MulopTerm]
+                                    ) [TermExpression]
+                                  ) [AssignDesignator]
+                                ) [DesignatorStatements]
+                              ) [StatementListWrap]
+                              MatchedStatements(
+                                PrintExpression(
+                                  TermExpression(
+                                    TermNoMulop(
+                                      FactorDesignator(
+                                        IdentDesignator(
+                                         bodovi
+                                          NoDesignator(
+                                          ) [NoDesignator]
+                                        ) [IdentDesignator]
+                                      ) [FactorDesignator]
+                                    ) [TermNoMulop]
+                                  ) [TermExpression]
+                                ) [PrintExpression]
+                              ) [MatchedStatements]
+                            ) [StatementListWrap]
+                            MatchedStatements(
+                              PrintExpression(
+                                TermExpression(
+                                  TermNoMulop(
+                                    FactorDesignator(
+                                      ScopeResDesignator(
+                                       Nizovi
+                                       niz
+                                        DesignatorListWrap(
+                                          NoDesignator(
+                                          ) [NoDesignator]
+                                          BracketsDesignator(
+                                            TermExpression(
+                                              TermNoMulop(
+                                                FactorNumber(
+                                                 2
+                                                ) [FactorNumber]
+                                              ) [TermNoMulop]
+                                            ) [TermExpression]
+                                          ) [BracketsDesignator]
+                                        ) [DesignatorListWrap]
+                                      ) [ScopeResDesignator]
+                                    ) [FactorDesignator]
+                                  ) [TermNoMulop]
+                                ) [TermExpression]
+                              ) [PrintExpression]
+                            ) [MatchedStatements]
+                          ) [StatementListWrap]
+                          DesignatorStatements(
+                            AssignDesignator(
+                              ScopeResDesignator(
+                               Nizovi
+                               nizch
+                                NoDesignator(
+                                ) [NoDesignator]
+                              ) [ScopeResDesignator]
+                              TermExpression(
+                                TermNoMulop(
+                                  FactorNEWExpr(
+                                    TypeIdent(
+                                     char
+                                    ) [TypeIdent]
+                                    TermExpression(
+                                      TermNoMulop(
+                                        FactorNumber(
+                                         3
+                                        ) [FactorNumber]
+                                      ) [TermNoMulop]
+                                    ) [TermExpression]
+                                  ) [FactorNEWExpr]
+                                ) [TermNoMulop]
+                              ) [TermExpression]
+                            ) [AssignDesignator]
+                          ) [DesignatorStatements]
+                        ) [StatementListWrap]
+                        DesignatorStatements(
+                          AssignDesignator(
+                            ScopeResDesignator(
+                             Nizovi
+                             nizch
+                              DesignatorListWrap(
+                                NoDesignator(
+                                ) [NoDesignator]
+                                BracketsDesignator(
+                                  TermExpression(
+                                    TermNoMulop(
+                                      FactorNumber(
+                                       0
+                                      ) [FactorNumber]
+                                    ) [TermNoMulop]
+                                  ) [TermExpression]
+                                ) [BracketsDesignator]
+                              ) [DesignatorListWrap]
+                            ) [ScopeResDesignator]
+                            TermExpression(
+                              TermNoMulop(
+                                FactorChar(
+                                 a
+                                ) [FactorChar]
+                              ) [TermNoMulop]
+                            ) [TermExpression]
+                          ) [AssignDesignator]
+                        ) [DesignatorStatements]
+                      ) [StatementListWrap]
+                      DesignatorStatements(
+                        AssignDesignator(
+                          ScopeResDesignator(
+                           Nizovi
+                           nizch
+                            DesignatorListWrap(
+                              NoDesignator(
+                              ) [NoDesignator]
+                              BracketsDesignator(
+                                TermExpression(
+                                  TermNoMulop(
+                                    FactorDesignator(
+                                      ScopeResDesignator(
+                                       Konstante
+                                       jedan
+                                        NoDesignator(
+                                        ) [NoDesignator]
+                                      ) [ScopeResDesignator]
+                                    ) [FactorDesignator]
+                                  ) [TermNoMulop]
+                                ) [TermExpression]
+                              ) [BracketsDesignator]
+                            ) [DesignatorListWrap]
+                          ) [ScopeResDesignator]
+                          TermExpression(
+                            TermNoMulop(
+                              FactorChar(
+                               b
+                              ) [FactorChar]
+                            ) [TermNoMulop]
+                          ) [TermExpression]
+                        ) [AssignDesignator]
+                      ) [DesignatorStatements]
+                    ) [StatementListWrap]
+                    DesignatorStatements(
+                      AssignDesignator(
+                        ScopeResDesignator(
+                         Nizovi
+                         nizch
+                          DesignatorListWrap(
+                            NoDesignator(
+                            ) [NoDesignator]
+                            BracketsDesignator(
+                              AddopExpr(
+                                TermExpression(
+                                  TermNoMulop(
+                                    FactorDesignator(
+                                      ScopeResDesignator(
+                                       Konstante
+                                       pet
+                                        NoDesignator(
+                                        ) [NoDesignator]
+                                      ) [ScopeResDesignator]
+                                    ) [FactorDesignator]
+                                  ) [TermNoMulop]
+                                ) [TermExpression]
+                                AddopMinus(
+                                ) [AddopMinus]
+                                TermNoMulop(
+                                  FactorNumber(
+                                   3
+                                  ) [FactorNumber]
+                                ) [TermNoMulop]
+                              ) [AddopExpr]
+                            ) [BracketsDesignator]
+                          ) [DesignatorListWrap]
+                        ) [ScopeResDesignator]
+                        TermExpression(
+                          TermNoMulop(
+                            FactorChar(
+                             c
+                            ) [FactorChar]
+                          ) [TermNoMulop]
+                        ) [TermExpression]
+                      ) [AssignDesignator]
+                    ) [DesignatorStatements]
+                  ) [StatementListWrap]
+                  MatchedStatements(
+                    PrintExpression(
+                      TermExpression(
+                        TermNoMulop(
+                          FactorDesignator(
+                            ScopeResDesignator(
+                             Nizovi
+                             nizch
+                              DesignatorListWrap(
+                                NoDesignator(
+                                ) [NoDesignator]
+                                BracketsDesignator(
+                                  TermExpression(
+                                    TermNoMulop(
+                                      FactorNumber(
+                                       1
+                                      ) [FactorNumber]
+                                    ) [TermNoMulop]
+                                  ) [TermExpression]
+                                ) [BracketsDesignator]
+                              ) [DesignatorListWrap]
+                            ) [ScopeResDesignator]
+                          ) [FactorDesignator]
+                        ) [TermNoMulop]
+                      ) [TermExpression]
+                    ) [PrintExpression]
+                  ) [MatchedStatements]
+                ) [StatementListWrap]
+                MatchedStatements(
+                  PrintExpression(
+                    TermExpression(
+                      TermNoMulop(
+                        FactorDesignator(
+                          ScopeResDesignator(
+                           Nizovi
+                           nizch
+                            DesignatorListWrap(
+                              NoDesignator(
+                              ) [NoDesignator]
+                              BracketsDesignator(
+                                TermExpression(
+                                  MulopTerm(
+                                    TermNoMulop(
+                                      FactorDesignator(
+                                        ScopeResDesignator(
+                                         Konstante
+                                         jedan
+                                          NoDesignator(
+                                          ) [NoDesignator]
+                                        ) [ScopeResDesignator]
+                                      ) [FactorDesignator]
+                                    ) [TermNoMulop]
+                                    MulopMUL(
+                                    ) [MulopMUL]
+                                    FactorNumber(
+                                     2
+                                    ) [FactorNumber]
+                                  ) [MulopTerm]
+                                ) [TermExpression]
+                              ) [BracketsDesignator]
+                            ) [DesignatorListWrap]
+                          ) [ScopeResDesignator]
+                        ) [FactorDesignator]
+                      ) [TermNoMulop]
+                    ) [TermExpression]
+                  ) [PrintExpression]
+                ) [MatchedStatements]
+              ) [StatementListWrap]
+              DesignatorStatements(
+                AssignDesignator(
+                  IdentDesignator(
+                   a
+                    NoDesignator(
+                    ) [NoDesignator]
+                  ) [IdentDesignator]
+                  TermExpression(
+                    TermNoMulop(
+                      FactorNumber(
+                       1
+                      ) [FactorNumber]
+                    ) [TermNoMulop]
+                  ) [TermExpression]
+                ) [AssignDesignator]
+              ) [DesignatorStatements]
+            ) [StatementListWrap]
+            MatchedStatements(
+              ReadDesignator(
+                IdentDesignator(
+                 bodovi
+                  NoDesignator(
+                  ) [NoDesignator]
+                ) [IdentDesignator]
+              ) [ReadDesignator]
+            ) [MatchedStatements]
+          ) [StatementListWrap]
+          DesignatorStatements(
+            AssignDesignator(
+              IdentDesignator(
+               bodovi
+                NoDesignator(
+                ) [NoDesignator]
+              ) [IdentDesignator]
+              AddopExpr(
+                AddopExpr(
+                  MinusTermExpression(
+                    TermNoMulop(
+                      FactorDesignator(
+                        IdentDesignator(
+                         bodovi
+                          NoDesignator(
+                          ) [NoDesignator]
+                        ) [IdentDesignator]
+                      ) [FactorDesignator]
+                    ) [TermNoMulop]
+                  ) [MinusTermExpression]
+                  AddopPLUS(
+                  ) [AddopPLUS]
+                  MulopTerm(
+                    TermNoMulop(
+                      FactorExpression(
+                        AddopExpr(
+                          TermExpression(
+                            MulopTerm(
+                              MulopTerm(
+                                TermNoMulop(
+                                  FactorDesignator(
+                                    ScopeResDesignator(
+                                     Konstante
+                                     pet
+                                      NoDesignator(
+                                      ) [NoDesignator]
+                                    ) [ScopeResDesignator]
+                                  ) [FactorDesignator]
+                                ) [TermNoMulop]
+                                MulopMUL(
+                                ) [MulopMUL]
+                                FactorDesignator(
+                                  IdentDesignator(
+                                   a
+                                    NoDesignator(
+                                    ) [NoDesignator]
+                                  ) [IdentDesignator]
+                                ) [FactorDesignator]
+                              ) [MulopTerm]
+                              MulopDIV(
+                              ) [MulopDIV]
+                              FactorNumber(
+                               2
+                              ) [FactorNumber]
+                            ) [MulopTerm]
+                          ) [TermExpression]
+                          AddopMinus(
+                          ) [AddopMinus]
+                          TermNoMulop(
+                            FactorDesignator(
+                              ScopeResDesignator(
+                               Konstante
+                               jedan
+                                NoDesignator(
+                                ) [NoDesignator]
+                              ) [ScopeResDesignator]
+                            ) [FactorDesignator]
+                          ) [TermNoMulop]
+                        ) [AddopExpr]
+                      ) [FactorExpression]
+                    ) [TermNoMulop]
+                    MulopMUL(
+                    ) [MulopMUL]
+                    FactorDesignator(
+                      IdentDesignator(
+                       bodovi
+                        NoDesignator(
+                        ) [NoDesignator]
+                      ) [IdentDesignator]
+                    ) [FactorDesignator]
+                  ) [MulopTerm]
+                ) [AddopExpr]
+                AddopMinus(
+                ) [AddopMinus]
+                TermNoMulop(
+                  FactorExpression(
+                    AddopExpr(
+                      AddopExpr(
+                        TermExpression(
+                          MulopTerm(
+                            TermNoMulop(
+                              FactorNumber(
+                               3
+                              ) [FactorNumber]
+                            ) [TermNoMulop]
+                            MulopMOD(
+                            ) [MulopMOD]
+                            FactorNumber(
+                             2
+                            ) [FactorNumber]
+                          ) [MulopTerm]
+                        ) [TermExpression]
+                        AddopPLUS(
+                        ) [AddopPLUS]
+                        MulopTerm(
+                          TermNoMulop(
+                            FactorNumber(
+                             3
+                            ) [FactorNumber]
+                          ) [TermNoMulop]
+                          MulopMUL(
+                          ) [MulopMUL]
+                          FactorNumber(
+                           2
+                          ) [FactorNumber]
+                        ) [MulopTerm]
+                      ) [AddopExpr]
+                      AddopMinus(
+                      ) [AddopMinus]
+                      TermNoMulop(
+                        FactorNumber(
+                         3
+                        ) [FactorNumber]
+                      ) [TermNoMulop]
+                    ) [AddopExpr]
+                  ) [FactorExpression]
+                ) [TermNoMulop]
+              ) [AddopExpr]
+            ) [AssignDesignator]
+          ) [DesignatorStatements]
+        ) [StatementListWrap]
+        MatchedStatements(
+          PrintExpression(
+            TermExpression(
+              TermNoMulop(
+                FactorDesignator(
+                  IdentDesignator(
+                   bodovi
+                    NoDesignator(
+                    ) [NoDesignator]
+                  ) [IdentDesignator]
+                ) [FactorDesignator]
+              ) [TermNoMulop]
+            ) [TermExpression]
+          ) [PrintExpression]
+        ) [MatchedStatements]
+      ) [StatementListWrap]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  00:08:25,376 - =======================
+ERROR 00:08:25,381 - Greska! Konstanta Konstante::nula je vec deklarisana! na liniji 6
+ERROR 00:08:25,381 - Greska! Konstanta Konstante::jedan je vec deklarisana! na liniji 7
+ERROR 00:08:25,381 - Greska! Konstanta Konstante::pet je vec deklarisana! na liniji 8
+INFO  00:08:25,381 - Deklarisan niz niz Var niz: Arr of int, 0, 0 niz na liniji 14
+INFO  00:08:25,381 - Deklarisan niz nizch Var nizch: Arr of char, 1, 0 nizch na liniji 15
+INFO  00:08:25,381 - Deklarisana promenljiva Nizovi::a Var a: int, 2, 0  na liniji 20
+INFO  00:08:25,381 - Deklarisana promenljiva Nizovi::b Var b: int, 3, 0  na liniji 20
+INFO  00:08:25,381 - Obradjuje se funkcija main na liniji 23
+INFO  00:08:25,381 - Deklarisana promenljiva Nizovi::bodovi Var bodovi: int, 0, 1  na liniji 24
+ERROR 00:08:25,381 - Nije pronadjen tip bool u tabeli simbola!
+INFO  00:08:25,381 - Deklarisana promenljiva Nizovi::bt Var bt: notype, 1, 1  na liniji 25
